@@ -38,10 +38,10 @@ h1.main,p.demos {
 	width: 100%;
 	text-align: center;
 	color: transparent;
-	-webkit-animation: blurFadeInOut 3s ease-in backwards;
-	-moz-animation: blurFadeInOut 3s ease-in backwards;
-	-ms-animation: blurFadeInOut 3s ease-in backwards;
-	animation: blurFadeInOut 3s ease-in backwards;
+	-webkit-animation: blurFadeInOut 4s ease-in backwards;
+	-moz-animation: blurFadeInOut 4s ease-in backwards;
+	-ms-animation: blurFadeInOut 4s ease-in backwards;
+	animation: blurFadeInOut 4s ease-in backwards;
 }
 .sp-container h2.frame-1 {
 	-webkit-animation-delay: 0s;
@@ -74,7 +74,7 @@ h1.main,p.demos {
 	-ms-animation: none;
 	animation: none;
 	color: transparent;
-	text-shadow: 0px 0px 1px #fff;
+	text-shadow: 0px 0px 0px #fff;
 }
 .sp-container h2.frame-5 span {
 	-webkit-animation: blurFadeIn 3s ease-in 12s backwards;
@@ -82,7 +82,7 @@ h1.main,p.demos {
 	-ms-animation: blurFadeIn 3s ease-in 12s backwards;
 	animation: blurFadeIn 3s ease-in 12s backwards;
 	color: transparent;
-	text-shadow: 0px 0px 1px #fff;
+	text-shadow: 0px 0px 0px #fff;
 }
 .sp-container h2.frame-5 span:nth-child(2) {
 	-webkit-animation-delay: 13s;
