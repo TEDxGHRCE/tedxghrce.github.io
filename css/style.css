@@ -1254,7 +1254,7 @@ ul.navbar-nav > li:hover > a{
     display: inline-block;
     margin: 0 50px;
     text-align: center;
-    font-family: Lato, sans-serif;
+    font-family: Helvetica, sans-serif;
 }
 .countdown div > span {
     line-height: 100%;
