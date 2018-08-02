@@ -1269,16 +1269,16 @@ ul.navbar-nav > li:hover > a{
     margin-top: 10px;
 }
 .countdown > div.counter-day {
-    color: #b4b4b4;
+    color: #dbdad9;
 }
 .countdown > div.counter-hour {
-    color: #b4b4b4;
+    color: #dbdad9;
 }
 .countdown > div.counter-minute {
-    color: #b4b4b4;
+    color: #dbdad9;
 }
 .countdown > div.counter-second {
-    color: #b4b4b4;
+    color: #dbdad9;
 }
 
 /* Countdown col */
