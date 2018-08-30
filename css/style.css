@@ -388,6 +388,7 @@ img.pull-right {
     background: #eee;
     color: #ff0000;
 }
+/*sliders */
 
 /* Featur box center */
 
@@ -882,12 +883,14 @@ ul.navbar-nav > li:hover > a{
 	padding: 300px 0 260px;
 }
 .banner-content.text-left .countdown > div.counter-day{
+
 	margin-left: 0;
 }
 
 .banner-content-wrap{
     position: relative;
 }
+
 
 .banner-content-wrap:before {
     content: '';
@@ -900,7 +903,7 @@ ul.navbar-nav > li:hover > a{
     left: 50%;
     margin-left: -190px;
     z-index: -1;
-    border: 18px solid rgba(104,89,222,0.35);
+    border: 18px solid rgba(120, 97, 226, 0.35);
     box-sizing: border-box;
     box-shadow: 0 60px 40px -40px rgba(0,0,0,0.3);
 }
@@ -908,13 +911,13 @@ ul.navbar-nav > li:hover > a{
 
 .banner-title {
     color: #fff;
-    font-size: 50px;
+    font-size: 40px;
     line-height: 72px;
   
 }
 .banner-subtitle{
-    font-size: 36px;
-    color: rgb(255, 60, 1);
+    font-size: 30px;
+    color: rgb(255, 40, 40);
 }
 .banner-desc {
     font-size: 24px;
@@ -933,7 +936,7 @@ ul.navbar-nav > li:hover > a{
 .hero-big-date{
     padding: 20px 50px;
     color: #fff;
-    background-color: rgba(255, 8, 86, 0.7);
+    background-color: #ff0808b3;
     height: 250px;
 }
 
@@ -1251,45 +1254,45 @@ ul.navbar-nav > li:hover > a{
 ================================================== */
 
 body{
-	text-align: center;
-	background: rgb(223, 220, 220);
-  font-family: sans-serif;
-  font-weight: 100;
+    text-align: center;
+    background: rgb(223, 220, 220);
+font-family: sans-serif;
+font-weight: 100;
 }
 
 h1{
-  color: rgb(64, 249, 255);
-  font-weight: 100;
-  font-size: 30px;
-  margin: 40px 0px 20px;
+color: rgb(64, 249, 255);
+font-weight: 100;
+font-size: 30px;
+margin: 40px 0px 20px;
 }
 
 #clockdiv{
-	font-family: sans-serif;
-	color: #fff;
-	display: inline-block;
-	font-weight: 100;
-	text-align: center;
-	font-size: 20px;
+    font-family: sans-serif;
+    color: #fff;
+    display: inline-block;
+    font-weight: 100;
+    text-align: center;
+    font-size: 20px;
 }
 
 #clockdiv > div{
-	padding: 10px;
-	border-radius: 3px;
-	background: rgb(74, 75, 75);
-	display: inline-block;
+    padding: 10px;
+    border-radius: 3px;
+    background: rgb(74, 75, 75);
+    display: inline-block;
 }
 
 #clockdiv div > span{
-	padding: 15px;
-	border-radius: 3px;
-	background: rgb(0, 0, 0);
-	display: inline-block;
+    padding: 15px;
+    border-radius: 3px;
+    background: rgb(0, 0, 0);
+    display: inline-block;
 }
 
 .smalltext{
-	padding-top: 5px;
-	font-size: 16px;
+    padding-top: 5px;
+    font-size: 16px;
 }
 
 
