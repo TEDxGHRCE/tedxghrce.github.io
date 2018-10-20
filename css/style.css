@@ -2422,11 +2422,11 @@ h4.panel-title a.collapsed:before {
 }
 .page-banner-title h2 {
     color: #fff;
-    font-size: 50px;
+    font-size: 30px;
 }
 .page-banner-title h3 {
     color: #fff;
-    font-size: 30px; 
+    font-size: 20px; 
 }
 .page-banner-title .breadcrumb {
     background: none;
