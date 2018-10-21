@@ -856,6 +856,7 @@ ul.navbar-nav > li:hover > a{
 
 #banner {
     padding: 0;
+    text-align: center;
 }
 
 .banner-item {
@@ -868,14 +869,6 @@ ul.navbar-nav > li:hover > a{
     -webkit-backface-visibility: hidden;
 }
 
-j {
-    font-family:  bold Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    padding: 15px;
-    color: red;
-    border: 5px solid white;
-    background: rgb(245, 245, 245);
-}
 
 
 .banner-content,
@@ -888,7 +881,8 @@ j {
     z-index: 1;
 }
 .banner-content.text-center{
-	padding: 300px 0px 260px;
+    
+    padding: 300px 0px 260px; 
 }
 .banner-content.text-center .countdown > div.counter-day{
 
@@ -897,6 +891,14 @@ j {
 
 .banner-content-wrap{
     position: relative;
+}
+j {
+    font-family:  bold Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 15px;
+    color: red;
+    border: 5px solid white;
+    background: rgb(245, 245, 245);
 }
 
 
@@ -1261,7 +1263,7 @@ j {
 /* Countdown Default
 ================================================== */
 h5{
-    text-align: left;
+    text-align: center;
     display: inline-block;
     padding: 5px;
     color: rgb(255, 255, 255);
@@ -1380,9 +1382,9 @@ h5{
 }
 
 
-/* banner-content-left */
+/* banner-content-center */
 
-.banner-content-left .countdown > div{
+.banner-content-center .countdown > div{
     margin-left: 0;
     margin-right: 100px;
 }
