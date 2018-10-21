@@ -593,7 +593,7 @@
 		font-size: 18px;
 	}
 
-	.banner-content.text-left .countdown > div.counter-day{
+	.banner-content.text-center .countdown > div.counter-day{
 		margin-left: 30px;
 	}
 
@@ -607,13 +607,13 @@
 
 	.banner-content .banner-title,
 	.banner-content .classic-style .banner-title{
-		font-size: 28px;
+		font-size: 30px;
 		line-height: 36px;
 		margin-top: 10px;
 	}
 
 	.banner-subtitle {
-   	font-size: 22px;
+   	font-size: 30px;
    	margin-top: 8px;
    }
 
@@ -855,7 +855,7 @@
 }
 
 /* Extra Small Devices, Phones */ 
-@media (max-width : 479px) {
+@media (max-width : 300px) {
 
 	.banner-btn .btn-border{
 		margin-top: 10px;
