@@ -868,6 +868,14 @@ ul.navbar-nav > li:hover > a{
     -webkit-backface-visibility: hidden;
 }
 
+j {
+    font-family:  bold Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 15px;
+    color: red;
+    border: 5px solid white;
+    background: rgb(245, 245, 245);
+}
 
 
 .banner-content,
